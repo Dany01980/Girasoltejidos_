@@ -331,7 +331,7 @@ footer{background:url(../img/fondo3TT.jfif);}
 .iconos{
   display: flex;
   margin: auto;
-  justify-content: space-around;
+  justify-content: space-evenly;
   width: 100%;
 }
 .fab{
